@@ -2,7 +2,7 @@
 
 This project simulates the classic **Monty Hall Problem** and visualizes results using an interactive Excel dashboard.
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
