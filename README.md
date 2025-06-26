@@ -16,7 +16,7 @@ A famous probability puzzle where contestants choose one of three doors — behi
 
 ## 📊 Simulation Highlights
 
-- ✅ 10,000 simulations run
+- ✅ 2,000 simulations run
 - 🔁 Compared **Switch vs Stay**
 - 📈 Visual dashboard created in Excel
 - 📎 Includes win-rate analysis, charts, and dynamic visualizations
@@ -25,8 +25,8 @@ A famous probability puzzle where contestants choose one of three doors — behi
 
 ## 📁 Files
 
-- `Monte_Hall_Simulation.xlsx`: Full simulation & dashboard
-- `/assets/dashboard.png`: Final dashboard preview
+- `Monte Hall GitHub.xlsx`: Full simulation & dashboard
+- `Dashoboard.png`: Final dashboard preview
 
 ---
 
@@ -47,10 +47,6 @@ A famous probability puzzle where contestants choose one of three doors — behi
 
 ## 📸 Screenshot
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
-
-## 📌 License
-
-MIT License — use freely, credit appreciated 💙
